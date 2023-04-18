@@ -1,1 +1,1 @@
-# resume_site
+# Building a portfolio website to showcase skills and experience.
