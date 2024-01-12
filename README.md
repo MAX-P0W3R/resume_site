@@ -16,7 +16,7 @@
 
 [] Build simple REST API
 
-[] Build a wordle clone
+[X] Build a wordle clone
 
 [] Create web3 project (Gum Road, web2 -> web3, npm packages)
 
